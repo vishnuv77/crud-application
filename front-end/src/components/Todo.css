@@ -1,0 +1,7 @@
+.todo-box {
+  border: 1px solid rgb(206, 188, 188);
+  color: red;
+  margin-top: 10px;
+  max-width: 600px;
+  border-radius: 6px;
+}
